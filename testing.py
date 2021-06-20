@@ -1,7 +1,5 @@
-
-x = []
-
-def y(x):
-    return len(x) == 0
-
-print(y(x))
+while True:
+    for i in range(10):
+        print(i)
+    else:
+        print('break')
