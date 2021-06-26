@@ -1,11 +1,21 @@
-import random
+def isBadVersion(a):
+    if a >= 171:
+        return True
+    else:
+        return False
+n = 200
+x = 1
 
-nums1 = [random.choice(range(1,10000)) for i in range(50)] + [0] * 50
 
-nums2 = [random.choice(range(1,10000)) for i in range(50)]
+l = 1
+r = n
 
-print(nums1)
-print(len(nums1))
-print()
-print(nums2)
-print(len(nums2))
+while r >= l:
+    print(l, r)
+    mid = (r - l) // 2 + l
+
+    if isBadVersion(mid):
+        r = mid -1
+    else:
+        l = mid + 1
+print(l)
