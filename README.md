@@ -25,3 +25,7 @@ Links to the problems below:
 [Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/)  
 
 [First Bad Version](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/774/)  
+
+[Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)  
+
+
