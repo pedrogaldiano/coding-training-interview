@@ -28,4 +28,6 @@ Links to the problems below:
 
 [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)  
 
+[Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)  
+
 
