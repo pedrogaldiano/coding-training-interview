@@ -30,4 +30,9 @@ Links to the problems below:
 
 [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)  
 
+[Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)  
 
+[Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)  
+
+[]()  
+[]()  
