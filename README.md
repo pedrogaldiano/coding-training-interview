@@ -34,5 +34,18 @@ Links to the problems below:
 
 [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)  
 
+[Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)  
+
+[Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)  
+
+[Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)  
+
 []()  
 []()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+
