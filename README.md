@@ -40,7 +40,8 @@ Links to the problems below:
 
 [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)  
 
-[]()  
+[String to Integer (atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/)  
+
 []()  
 []()  
 []()  
