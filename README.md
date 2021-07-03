@@ -42,7 +42,8 @@ Links to the problems below:
 
 [String to Integer (atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/)  
 
-[]()  
+[Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)  
+
 []()  
 []()  
 []()  
