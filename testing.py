@@ -1,3 +1,2 @@
-a = 10 /= 5
-
-print(a)
+for i in range(100):
+    print(i,end=',')

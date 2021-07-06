@@ -44,7 +44,8 @@ Links to the problems below:
 
 [Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/)  
 
-[]()  
+[Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)  
+
 []()  
 []()  
 []()  
